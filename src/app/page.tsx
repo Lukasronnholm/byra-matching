@@ -112,7 +112,7 @@ export default function Home() {
                             type="submit"
                             className="w-full bg-gradient-to-r from-blue-600 to-purple-600 text-white py-4 px-6 rounded-xl font-semibold text-lg hover:from-blue-700 hover:to-purple-700 focus:ring-4 focus:ring-blue-100 focus:outline-none transition-all duration-200 transform hover:scale-[1.02] active:scale-[0.98] shadow-lg hover:shadow-xl"
                         >
-                            🚀 Få matchning med webbyråer
+                            Få matchning med webbyråer
                         </button>
                     </form>
                 </div>
